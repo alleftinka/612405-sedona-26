@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Алла Вановская](https://up.htmlacademy.ru/htmlcss/26/user/612405).
-* Наставник: `Неизвестно`.
+* Наставник: [Алена Сафьянникова](https://htmlacademy.ru/profile/safyann).
 
 ---
 
